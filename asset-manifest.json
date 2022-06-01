@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Task_manager-Todo-App-/static/css/main.9e972f2b.css",
-    "main.js": "/Task_manager-Todo-App-/static/js/main.ed178e89.js",
-    "static/js/787.a5cad257.chunk.js": "/Task_manager-Todo-App-/static/js/787.a5cad257.chunk.js",
-    "static/media/background.jpeg": "/Task_manager-Todo-App-/static/media/background.f5be907ec3a1d8a3d713.jpeg",
-    "index.html": "/Task_manager-Todo-App-/index.html",
-    "main.9e972f2b.css.map": "/Task_manager-Todo-App-/static/css/main.9e972f2b.css.map",
-    "main.ed178e89.js.map": "/Task_manager-Todo-App-/static/js/main.ed178e89.js.map",
-    "787.a5cad257.chunk.js.map": "/Task_manager-Todo-App-/static/js/787.a5cad257.chunk.js.map"
+    "main.css": "/Task_Manager/static/css/main.4641e2f7.css",
+    "main.js": "/Task_Manager/static/js/main.23d74df0.js",
+    "static/js/787.a5cad257.chunk.js": "/Task_Manager/static/js/787.a5cad257.chunk.js",
+    "static/media/background.jpeg": "/Task_Manager/static/media/background.f5be907ec3a1d8a3d713.jpeg",
+    "index.html": "/Task_Manager/index.html",
+    "main.4641e2f7.css.map": "/Task_Manager/static/css/main.4641e2f7.css.map",
+    "main.23d74df0.js.map": "/Task_Manager/static/js/main.23d74df0.js.map",
+    "787.a5cad257.chunk.js.map": "/Task_Manager/static/js/787.a5cad257.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e972f2b.css",
-    "static/js/main.ed178e89.js"
+    "static/css/main.4641e2f7.css",
+    "static/js/main.23d74df0.js"
   ]
 }
