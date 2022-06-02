@@ -1,9 +1,17 @@
 # Task Manager App
 
-It a single page application built using react. 
+It a single page application built using react. It can be used to keep track of the todo list.
 
 
-# How can it be used?
+# Technology used
+- React
+- React Hooks
+- React Router
+- React Icons
+- localStorage
+
+
+# What does Task-Manager do?
 
 - User can create a task
 - User can delete a task
