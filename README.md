@@ -1,6 +1,6 @@
 # Task Manager App
 
-It a single page application built using react. It can be used to keep track of the todo list.
+It is a SPA (single page application) built using react with no backend. It can be used to keep track of the todo list. "localStorage" was used to save the changes made by user so when user close/refresh the application previously made changes are stil there. 
 
 
 # Technology used
@@ -16,7 +16,7 @@ It a single page application built using react. It can be used to keep track of 
 - User can create a task
 - User can delete a task
 - User can mark a task as "Done"
-- previously made changes will be stored when the User returns, the data will be retrieved.
+- previously made changes will be stored when the User returns, the data will be retrieved (if the cookies are not cleared from the browser).
 
 # Deployment
 
