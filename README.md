@@ -14,4 +14,4 @@ It a single page application built using react.
 
 Deployed using github pages.
 
-Deployment link : [github-pages] (https://akarelia20.github.io/Task_Manager/)
+Deployment link : [Click me!!](https://akarelia20.github.io/Task_Manager/)
