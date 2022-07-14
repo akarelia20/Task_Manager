@@ -1,5 +1,9 @@
 # Task Manager App
 
+
+![alt text](https://github.com/akarelia20/Task_Manager/blob/main/screenshot_output.png)
+
+
 It is a SPA (single page application) built using react with no backend. It can be used to keep track of the todo list. "localStorage" was used to save the changes made by user so when user close/refresh the application previously made changes are stil there. 
 
 
